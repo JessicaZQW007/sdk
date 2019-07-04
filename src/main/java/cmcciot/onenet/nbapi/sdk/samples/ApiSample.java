@@ -58,7 +58,7 @@ public class ApiSample {
         ObserveOpe observeOpe = new ObserveOpe(apiKey);
         Observe observe = new Observe(imei, objId, false);
         LOGGER.info(observeOpe.operation(observe, null).toString());
-        System.out.println(" 上传测试");
+        System.out.println(" 上传测试4564654656");
 
     }
 }
